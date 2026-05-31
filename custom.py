@@ -1,0 +1,17 @@
+
+extra_suffix = "estragon"
+optimize = "debug"
+lto = "auto"
+dlink_enabled = "yes"
+use_llvm = "no"
+use_mingw = "no"
+scu_build = "yes"
+production = "yes"
+
+angle = "yes"
+module_mono_enabled = "yes"
+module_camera_enabled = "no"
+module_ktx_enabled = "no"
+module_mobile_vr_enabled = "no"
+module_openxr_enabled = "no"
+module_webxr_enabled = "no"
